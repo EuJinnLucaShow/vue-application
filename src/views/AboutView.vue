@@ -1,15 +1,17 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <img alt="User" src='@/assets/dima.jpeg' width="350px"/>
+        <h1>Dimitriy Samus (Frontend React Developer) </h1>
   </div>
 </template>
 
 <style>
 @media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
+  .about {    
     display: flex;
     align-items: center;
+    flex-direction: column;
+    gap: 20px;
   }
 }
 </style>
