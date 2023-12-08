@@ -1,7 +1,7 @@
 <template>
   <div class="about">
-    <img alt="User" src='@/assets/dima.jpeg' width="350px"/>
-        <h1>Dimitriy Samus (Frontend React Developer) </h1>
+    <img alt="User" src='@/assets/ava-copy.png' width="350px"/>
+        <h1>Yevhenii Lukashov</h1>
   </div>
 </template>
 
